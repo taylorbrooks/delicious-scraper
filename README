@@ -1,0 +1,4 @@
+1) Open Terminal and the ruby console by typing 'irb'
+2) Type => load 'delicious_scraper.rb'
+3) Then type scrape('username', 'tag'); e.g. scrape('chrisyeh', 'sales')
+4) The script will create a CSV file with the bookmarks' URL, Notes, Tags, and Description.
